@@ -34,7 +34,9 @@ AngularJS | Sass | jQuery
 
  Github | Git | AzureDevops | WordPress
 
-大学の講義では C | Java | Python を用いてデータ構造やアルゴリズムを学習したりグラフ作成して課題を提出するなどしていました。
+大学の講義では C | Java | Python で学習したりグラフ作成して課題を提出するなどしていました。
+
+開発ではAzureDevopsを主に使っていたのでGithubへのプッシュ回数は少ないです。
 
  ## 活かせる知識・技術・経験
 
