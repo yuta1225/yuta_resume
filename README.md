@@ -12,7 +12,7 @@
 
 ## 概要
 
-- 主にフロントエンド・WordPress・SEO・SNS運用の経験がございます。
+- 主にフルスタック開発・AWS・WordPress・SEO・SNS運用の経験がございます。
 
 - 開発に携わっていた2年前は業務効率化アプリケーションやオンラインコミュニケーションツールのフロントを担当していました。
 
@@ -30,7 +30,7 @@ HTML | CSS | JavaScript | PHP | TypeScript
 
 ### フレームワーク等
 
-AngularJS | Sass | jQuery
+AngularJS | Sass | jQuery | Zend
 
 ### その他
 
@@ -43,6 +43,8 @@ AngularJS | Sass | jQuery
  ## 活かせる知識・技術・経験
 
 - フロントエンド関連の開発業務
+- フルスタック開発
+- 対エンタープライズ開発経験
 - 小規模のリーダー経験
 - WordPress サイト構築および SEO 対策の経験
 - 法人営業経験およびマーケティング経験
